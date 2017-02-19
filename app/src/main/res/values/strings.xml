@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NEXT</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hum">Humility</string>
+    <string name="tem">Temperature</string>
+    <string name="home">At home</string>
+    <string name="share">Share</string>
+    <string name="chart">Chart</string>
+    <string name="real_time">Real Time</string>
+    <string name="refresh">Refresh</string>
+</resources>
